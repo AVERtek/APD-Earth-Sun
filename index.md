@@ -1,5 +1,5 @@
-# "BEGIN LIVING YOUR DREAM NOW" <!-- Loads <model-viewer> for old browsers like IE11: -->
-  <h1 style="text-align: center;" markdown="1"> It's Time to Chase the Sunshine; Start Living a Resort Lifestyle!</h1>
+# "EXPERIENCE DREAM LIVING" <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <h1 style="text-align: center;" markdown="1"> Start Living a Resort Lifestyle; Time to Chase the Sunshine!</h1>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
   
@@ -87,7 +87,7 @@
 <section class="attribution">
         <div>
           <span>
-            <h1 style="text-align: center;" markdown="1">Play Music</h1>
+            <h1 style="text-align: center;" markdown="1">Hear Our Song</h1>
               <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
