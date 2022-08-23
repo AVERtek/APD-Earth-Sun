@@ -1,18 +1,18 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "/images/avenidaPDlogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b><h3>WHERE RETIREMENT MEANS EXCITMENT</h3></b> 
-  <b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING LINKS</b> <br>
+  <b><h3 style="text-align: center;" markdown="1"><b>RETIREMENT MEANS EXCITMENT</h3></b> 
+  <b><h3 style="text-align: center;" markdown="1"><b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING LINKS</b></h3> <br>
     3D IMAGE allows Viewer to rotate, spin & zoom to scale the Fairytale Story
   <br><br> 
-  <b>SHOW IMAGES/EVENTS THAT ROMANCE COMMUNITY LIVING</b> <br>
+  <b><h3 style="text-align: center;" markdown="1"><b>SHOW IMAGES/EVENTS THAT ROMANCE COMMUNITY LIVING</b></h3> <br>
    Augmented Reality (AR) transports your story into the Prospect's memory!
   <br><br>
-  <a href="https://avertek.net/xr-now-apartments"><b><u>LINK EXCITING STORIES/CONTENT</u></b>- Help Prospects visualize a new lifestyle</a> 
+  <a href="https://avertek.net/xr-now-apartments"><b><h3 style="text-align: center;" markdown="1"><u>LINK EXCITING STORIES/CONTENT</u></b></h3>- Help Prospects visualize a new lifestyle</a> 
   <br><br>
-  <a href="https://youtu.be/5YSBRmMTybU"><b><u>SHARE TESTIMONIALS</u></b>- Show viewers fun/friendly residents</a>
+  <a href="https://youtu.be/5YSBRmMTybU"><b><h3 style="text-align: center;" markdown="1"><u>SHARE TESTIMONIALS</u></h3></b>- Show viewers fun/friendly residents</a>
   <br><br>
-  <a href="https://avertek.net/contact-us"><b><u>EXPERIENCE "LIVING LIFE TODAY"</u></b>- Take a VIP tour, Get a special gift</a> 
+  <a href="https://avertek.net/contact-us"><b><h3 style="text-align: center;" markdown="1"><u>EXPERIENCE "LIVING LIFE TODAY"</u></h3></b>- Take a VIP tour, Get a special gift</a> 
   <br><br>
 
 theme: jekyll-theme-minimal
