@@ -2,17 +2,17 @@
 logo1: "/images/avenidaPDlogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b><h3 style="text-align: center;" markdown="1"><b>WHERE RETIREMENT'S EXCITING</h3></b> 
-  <b><h3 style="text-align: center;" markdown="1"><b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING LINKS</b></h3> 3D IMAGE allows Viewer to rotate, spin & zoom to scale the image
-  <br><br> 
+  <b><style="text-align: center;" markdown="1"><h3><b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING LINKS</b></h3><style="text-align: center;" markdown="1"> 3D IMAGE allows Viewer to rotate, spin & zoom to scale the image
+  <br> 
   <b><h3 style="text-align: center;" markdown="1"><b>SHOW IMAGES/EVENTS THAT ROMANCE COMMUNITY LIVING</b></h3> <br>
    Augmented Reality (AR) transports your story into the Prospect's memory!
-  <br><br>
+  <br>
   <a href="https://avertek.net/xr-now-apartments"><b><h3 style="text-align: center;" markdown="1"><u>LINK EXCITING STORIES/CONTENT</u></b></h3>- Help Prospects visualize a new lifestyle</a> 
-  <br><br>
+  <br>
   <a href="https://youtu.be/5YSBRmMTybU"><b><h3 style="text-align: center;" markdown="1"><u>SHARE TESTIMONIALS</u></h3></b>- Show viewers fun/friendly residents</a>
-  <br><br>
+  <br>
   <a href="https://avertek.net/contact-us"><b><h3 style="text-align: center;" markdown="1"><u>EXPERIENCE "LIVING LIFE TODAY"</u></h3></b>- Take a VIP tour, Get a special gift</a> 
-  <br><br>
+  <br>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
