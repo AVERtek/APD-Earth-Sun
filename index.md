@@ -87,7 +87,7 @@
 <section class="attribution">
         <div>
           <span>
-            <h3 style="text-align: center;" markdown="1">Hear Our Song</h3>
+            <h2 style="text-align: center;" markdown="1">Hear Our Song</h2>
               <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
