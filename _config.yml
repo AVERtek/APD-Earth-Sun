@@ -2,20 +2,15 @@
 logo1: "/images/avenidaPDlogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b><h3 style="text-align: center;" markdown="1"><b>SECRET OF FUN LIVING</h3></b> 
-  <b><h4 style="text-align: center;" markdown="1"><b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING</b></h4>
-  <h5 style="text-align: center;" markdown="2"> 3D image allows viewers to rotate, spin & zoom to scale the images</h5>
+  <b><h4 style="text-align: center;" markdown="1"><b>POWERFUL BREADCRUMB MARKETING WITH STORYTELLING</b></h4><h5 style="text-align: center;" markdown="2"> 3D image allows viewers to rotate, spin & zoom to scale the images</h5>
   <br> 
-  <b><h4 style="text-align: center;" markdown="1"><b>SHOW IMAGES/EVENTS THAT ROMANCE COMMUNITY LIVING</b></h4>
-  <h5 style="text-align: center;" markdown="2"> Augmented Reality (AR) transports your story into the Prospect's memory!</h5>
+  <b><h4 style="text-align: center;" markdown="1"><b>SHOW IMAGES/EVENTS THAT ROMANCE COMMUNITY LIVING</b></h4> <h5 style="text-align: center;" markdown="2"> Augmented Reality (AR) transports your story into the Prospect's memory!</h5>
   <br>
-  <b><h4 style="text-align: center;" markdown="1"><a href="https://avertek.net/xr-now-apartments">LINK EXCITING STORIES/CONTENT</b></h4></a>
-  <h5 style="text-align: center;" markdown="2"> Help Prospects visualize a new lifestyle</h5> 
+  <b><h4 style="text-align: center;" markdown="1"><a href="https://avertek.net/xr-now-apartments">LINK EXCITING STORIES/CONTENT</b></h4></a> <h5 style="text-align: center;" markdown="2"> Help Prospects visualize a new lifestyle</h5> 
   <br>
-  <b><h4 style="text-align: center;" markdown="1"><a href="https://youtu.be/5YSBRmMTybU">SHARE TESTIMONIALS</h4></b></a>
-  <h5 style="text-align: center;" markdown="2"> Show viewers fun/friendly residents</h5>
+  <b><h4 style="text-align: center;" markdown="1"><a href="https://youtu.be/5YSBRmMTybU">SHARE TESTIMONIALS</h4></b></a> <h5 style="text-align: center;" markdown="2"> Show viewers fun/friendly residents</h5>
   <br>
-  <b><h4 style="text-align: center;" markdown="1"><a href="https://avertek.net/contact-us"><b>EXPERIENCE "LIVING LIFE TODAY"</h4></b></a>
-  <h5 style="text-align: center;" markdown="2"> Take a VIP tour, Get a special gift</h5> 
+  <b><h4 style="text-align: center;" markdown="1"><a href="https://avertek.net/contact-us"><b>EXPERIENCE "LIVING LIFE TODAY"</h4></b></a> <h5 style="text-align: center;" markdown="2"> Take a VIP tour, Get a special gift</h5> 
   <br>
 
 theme: jekyll-theme-minimal
